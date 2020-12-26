@@ -8,7 +8,6 @@ MNIST
 __pycache__/
 *.py[cod]
 *$py.class
-.github
 *.pyc
 
 # C extensions
