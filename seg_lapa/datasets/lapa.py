@@ -180,7 +180,7 @@ class LaPaDataModule(pl.LightningDataModule):
     def prepare_data(self):
         """download dataset, tokenize, etc"""
         """
-        Downloading original data from author's google drive link: 
+        Downloading original data from author's google drive link:
             >>> import gdown
             >>> url = "https://drive.google.com/uc?export=download&id=1EtyCtiQZt2Y5qrb-0YxRxaVLpVcgCOQV"
             >>> output = "lapa-downloaded.tar.gz"
