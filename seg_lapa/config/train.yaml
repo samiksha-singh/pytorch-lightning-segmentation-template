@@ -8,7 +8,7 @@ defaults:
   - trainer: standard
   - scheduler: disabled
   - logger: wandb
-  - callbacks: standard
+  - callbacks: disabled
   - load_weights: disabled
 
   # To disable any .log files
