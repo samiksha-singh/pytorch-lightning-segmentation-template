@@ -9,7 +9,7 @@ setup(
     author="john doe",
     author_email="example@gmail.com",
     # REPLACE WITH YOUR OWN GITHUB PROJECT LINK
-    url="https://github.com/Shreeyak/pytorch-lightning-segmentation-template",
+    url="https://github.com/samiksha-singh/pytorch-lightning-segmentation-template",
     python_requires=">=3.6",
     install_requires=[
         "pytorch-lightning==1.1.2",
